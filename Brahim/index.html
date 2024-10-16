@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Animated Code Header</title>
+    <link rel="stylesheet" href="styles.css">
+    <!-- Link to Google Fonts for Special Elite -->
+    <link href="https://fonts.googleapis.com/css2?family=Special+Elite&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div class="header">
+        <div class="code-container">
+            <div class="vertical-line"></div>
+            <div class="code-wrapper" id="codeWrapper"></div>
+        </div>
+        <div class="header-content">
+            <h1 id="helloWorld" class="typing-animation"> HELLO WORLD!</h1>
+        </div>
+        <div class="A">
+            <h2 id="brahimMefgouda" class="brahim-mefgouda">I am Brahim Mefgouda</h2>
+        </div>
+        <div class="bio">
+            <p>Postdoctoral Fellow in 6G Research Center, KU, UAE</p>
+            <p>AI/ML • Generative AI • Security • Wireless Communications</p>
+        </div>
+    <script src="script.js"></script>
+    <script>
+document.addEventListener("DOMContentLoaded", function() {
+    const helloWorld = document.getElementById('helloWorld');
+    const brahimMefgouda = document.getElementById('brahimMefgouda');
+
+    
+    // Remove blinking cursor from "HELLO WORLD!" after 3.5 seconds (animation duration)
+    setTimeout(() => {
+    helloWorld.classList.remove('typing-animation');
+    helloWorld.classList.add('remove-cursor');
+}, 3500);
+    // Display "I am Brahim Mefgouda" after 4 seconds
+    setTimeout(() => {
+        brahimMefgouda.style.display = 'block';
+    }, 3500);  // Adjust this as per the timing of your animation.
+});
+    </script>
+    
+</body>
+</html>
