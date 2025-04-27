@@ -1,8 +1,8 @@
 ![Untitled (400 x 190 px) (A2 (Landscape)) (2)](https://github.com/user-attachments/assets/87da3ca9-61e2-41cc-9755-de56d72c43d9)
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div style="display: flex; align-items: center;">
   <h1 style="margin: 0;">Hi folks! I'm Brahim 👋</h1>
-  <div style="display: flex; gap: 12px;">
+  <div style="margin-left: auto;">
     <a href="mailto:dev.iansmathew@gmail.com">
       <img height="30" src="https://raw.githubusercontent.com/iansmathew/iansmathew/master/assets/icon_email.png">
     </a>
