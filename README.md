@@ -3,17 +3,14 @@
 <h1 style="display:flex; align-items:center; justify-content:space-between;">
   <span>Hi folks! I'm Brahim 👋                             </span>
   <span>
-    <a href="mailto:dev.iansmathew@gmail.com">
+    <a href="mailto:brahim.mefgouda@ku.ac.ae">
       <img height="30" src="https://raw.githubusercontent.com/iansmathew/iansmathew/master/assets/icon_email.png">
     </a>
-    <a href="https://www.linkedin.com/in/iansmathew/">
+    <a href="https://www.linkedin.com/in/brahimmefgouda/">
       <img height="30" src="https://raw.githubusercontent.com/iansmathew/iansmathew/master/assets/icon_linkedin.png">
     </a>
-    <a href="https://twitter.com/iansmathew">
+    <a href="https://x.com/BrahimMefgouda">
       <img height="30" src="https://raw.githubusercontent.com/iansmathew/iansmathew/master/assets/icon_twitter.png">
-    </a>
-    <a href="https://connect.unity.com/u/ian-mathew">
-      <img height="30" src="https://raw.githubusercontent.com/iansmathew/iansmathew/master/assets/icon_unity3d.png">
     </a>
   </span>
 </h1>
