@@ -4,13 +4,13 @@
   <span>Hi folks! I'm Brahim </span>
   <span>
     <a href="mailto:brahim.mefgouda@ku.ac.ae">
-      <img height="10" src="https://raw.githubusercontent.com/iansmathew/iansmathew/master/assets/icon_email.png">
+      <img height="20" src="https://raw.githubusercontent.com/iansmathew/iansmathew/master/assets/icon_email.png">
     </a>
     <a href="https://www.linkedin.com/in/brahimmefgouda/">
-      <img height="10" src="https://raw.githubusercontent.com/iansmathew/iansmathew/master/assets/icon_linkedin.png">
+      <img height="20" src="https://raw.githubusercontent.com/iansmathew/iansmathew/master/assets/icon_linkedin.png">
     </a>
     <a href="https://x.com/BrahimMefgouda">
-      <img height="10" src="https://raw.githubusercontent.com/iansmathew/iansmathew/master/assets/icon_twitter.png">
+      <img height="20" src="https://raw.githubusercontent.com/iansmathew/iansmathew/master/assets/icon_twitter.png">
     </a>
   </span>
 </h1>
