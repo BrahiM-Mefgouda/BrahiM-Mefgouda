@@ -14,3 +14,21 @@
     </a>
   </span>
 </h1>
+
+<h1 style="display:flex; align-items:center; justify-content:space-between;">
+  <span>Hi folks! I'm Brahim 👋</span>
+  <span style="margin-left:auto;">
+    <a href="mailto:dev.iansmathew@gmail.com">
+      <img height="30" src="https://raw.githubusercontent.com/iansmathew/iansmathew/master/assets/icon_email.png">
+    </a>
+    <a href="https://www.linkedin.com/in/iansmathew/">
+      <img height="30" src="https://raw.githubusercontent.com/iansmathew/iansmathew/master/assets/icon_linkedin.png">
+    </a>
+    <a href="https://twitter.com/iansmathew">
+      <img height="30" src="https://raw.githubusercontent.com/iansmathew/iansmathew/master/assets/icon_twitter.png">
+    </a>
+    <a href="https://connect.unity.com/u/ian-mathew">
+      <img height="30" src="https://raw.githubusercontent.com/iansmathew/iansmathew/master/assets/icon_unity3d.png">
+    </a>
+  </span>
+</h1>
