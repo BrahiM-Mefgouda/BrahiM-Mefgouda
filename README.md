@@ -15,3 +15,4 @@
   </span>
 </h1>
 
+I hold a PhD in Computer Science and am currently a Postdoctoral Researcher at the 6G Research Center at Khalifa University, UAE. My research focuses on enhancing next-generation wireless telecommunications using various machine learning models, including large language and vision models, as well as Agentic AI. 
